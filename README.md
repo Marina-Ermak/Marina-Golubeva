@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Marina-Golubeva
+- 👀 I’m interested in nearly everything
+- 🌱 I’m currently learning O2 ALICE and C++
+- 📫 How to reach me golubeva.ms@phystech.edu
