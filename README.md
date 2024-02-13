@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Marina-Golubeva
-- 👀 I’m interested in nearly everything
-- 🌱 I’m currently learning O2 ALICE and C++
-- 📫 How to reach me golubeva.ms@phystech.edu
+- 👀 I’m interested in math, ML and evidanse-based education
+- 🌱 I’m currently learning CV
+- 📫 How to reach me ermak.ms@phystech.edu
